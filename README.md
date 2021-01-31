@@ -1,5 +1,5 @@
 # Newton-Gradle
-Newton-Gradle made using HTML/CSS/Js
+Newton-Gradle made using HTML & CSS
 
 
 ## Screenshot
